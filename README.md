@@ -1,12 +1,14 @@
 # Cours de dev mobile IMT Atlantique
 
-L'objectif de ce cours est de voir les différentes techonologies pour faire du dev mobile en 2020. Chaque TP à une durée de 7h.
+L'objectif de ce cours est de voir les différentes techonologies pour faire du dev mobile en 2020.
 
 On peut regrouper les technos en trois groupes :
 
 - Web app : PWA
 - Hybride : ionic, cordova, ...
 - Dev propriétaire : flutter, androidStudio, IOS
+
+Chaque TP à une durée de 7h.
 
 ## Description
 
