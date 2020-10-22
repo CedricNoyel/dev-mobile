@@ -16,9 +16,7 @@ On fera des test d'applications simples dans les 3 technos différentes pour êt
 
 ## Fichiers de consignes et TP
 
-- TP1 --> ./pwa
-- TP2 --> ./hybride
-- TP3 --> ./projet
+Les 3 fichiers PDF correspondent aux différents projets
 
 ### Dependencies
 
